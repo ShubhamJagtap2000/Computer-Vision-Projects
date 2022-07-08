@@ -1,21 +1,3 @@
-# To add a new cell, type '# %%'
-# To add a new markdown cell, type '# %% [markdown]'
-# %% [markdown]
-# # NAME: SHUBHAM S. JAGTAP
-# 
-# 
-# %% [markdown]
-# # THE SPARKS FOUNDATION
-# 
-# # GRIPJAN21 Computer Vision Internship
-# %% [markdown]
-# ## Task 2: Color Identification in Images using KMeans and OpenCV
-# %% [markdown]
-# ### In this notebook, we will extract colors from images using KMeans Machine Learning algorithm and filtered images from a collection of images based on RGB values of colors.
-# %% [markdown]
-# ### Load required packages
-
-# %%
 import numpy as np
 import cv2
 from collections import Counter
